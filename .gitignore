@@ -1,0 +1,6 @@
+*.bash
+*.sh
+AUTHORS.md
+tests
+checks
+hsh
